@@ -1,0 +1,7 @@
+/build/
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+.vs/
+CMakeUserPresets.json
